@@ -1,0 +1,9 @@
+-> Block App
+-> Note App
+-> Quick App
+-> Chat App (telegram, whatapp, etc...)
+-> Social Media App (facebook, instagram, whatapp, etc...)
+-> Watch Movies (Hoststar, netflix, ect...)
+-> Resume App
+-> Music player application (Spotify, ganna, ect...)
+-> E-commerce Website (Amazon, flipcard, etc...)
